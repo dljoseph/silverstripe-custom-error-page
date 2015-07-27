@@ -32,8 +32,12 @@ Installation can be done either by composer or by manually downloading a release
 
 Usage Overview
 --------------
-Once installed, the SilverStripe ErrorPage will be augmented with an additional field to allow the 
-administrator to select which template to use for the error page.
+Once installed, the SilverStripe ErrorPage will be augmented with an additional field to allow the administrator to select which template to use for the error page.
+
+Be sure to add the following line to your `Page_Controller` class in 
+`mysite/code/Page.php` to allow template overrides:
+
+    `public $templates; //required for template overrides`
 
 
 ### Templating
