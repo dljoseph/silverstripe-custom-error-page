@@ -1,0 +1,4 @@
+sv:
+  CustomErrorPage:
+    CUSTOMTEMPLATE: 'Välj mall'
+    DEFAULTTEMPLATE: '(Använd standard mall)'

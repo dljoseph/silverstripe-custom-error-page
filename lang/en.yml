@@ -1,0 +1,4 @@
+en:
+  CustomErrorPage:
+    CUSTOMTEMPLATE: 'Template to render with'
+    DEFAULTTEMPLATE: '(Use default template)'

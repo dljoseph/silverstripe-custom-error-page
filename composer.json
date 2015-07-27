@@ -1,0 +1,23 @@
+{
+    "name": "thisisbd/silverstripe-custom-error-page",
+    "description": "SilverStripe Custom Error Page Module.  Select any template to use as a custom error page.",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/thisisbd/silverstripe-custom-error-page",
+    "keywords": [
+        "silverstripe","custom error page","custom 404"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {"name": "Darren-Lee Joseph","email": "darrenleejoseph@gmail.com"}
+    ],
+    "support": {
+        "issues": "http://github.com/thisisbd/silverstripe-custom-error-page/issues"
+    },
+    "require": {
+        "silverstripe/cms": "~3.1",
+        "silverstripe/framework": "~3.1"
+    },
+    "extra": {
+        "installer-name": "custom-error-page"
+    }
+}

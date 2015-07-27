@@ -1,0 +1,4 @@
+el:
+  CustomErrorPage:
+    CUSTOMTEMPLATE: 'Επιλέξτε ένα πρότυπο'
+    DEFAULTTEMPLATE: '(Χρησιμοποιήστε το προεπιλεγμένο πρότυπο)'

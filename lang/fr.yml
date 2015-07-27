@@ -1,0 +1,4 @@
+fr:
+  CustomErrorPage:
+    CUSTOMTEMPLATE: 'Modèle à utiliser'
+    DEFAULTTEMPLATE: '(Utiliser le modèle par défaut)'
